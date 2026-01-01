@@ -63,7 +63,7 @@ The repository is structured using **Terraform modules** for scalability, reusab
 ```bash
 terraform -v
 aws sts get-caller-identity
-
+```
 
 ---
 
